@@ -1,5 +1,5 @@
-# Exercise-Tracker
-Web Application with following technologies: 
-MongoDB (+ Mongoose)
-NodeJS (+ express, cors, dotenv)
-React (+ Bootstrap)
+# Exercise-Tracker <br/>
+Web Application with following technologies: <br/>
+MongoDB (+ Mongoose) <br/>
+NodeJS (+ express, cors, dotenv) <br/>
+React (+ Bootstrap) <br/>
